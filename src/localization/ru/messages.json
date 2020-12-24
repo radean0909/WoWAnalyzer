@@ -609,8 +609,6 @@
   "paladin.holy.modules.checklist.totalFillerPerMinute": "Использовано филлеров в минуту",
   "paladin.holy.modules.checklist.totalFillerPerMinuteWhileHolyShock": "Всего филлеров использовано из <0/> доступных",
   "paladin.holy.modules.checklist.totalFillerWhileHolyShock": "Использовано филлеров: <0/> применений из <1><2/></1> доступных",
-  "paladin.holy.modules.checklist.useAllOfMana": "Используйте все ваши <0/>",
-  "paladin.holy.modules.checklist.useAllOfMana.description": "Оставшаяся у Вас на конец боя мана могла быть конвертирована в исцеление. Старайтесь использовать во время боя всю свою ману. Хорошее (хоть и не всегда справедливое) правило - старайтесь, чтобы Ваш уровень маны совпадал с уровнем здоровья босса.",
   "paladin.holy.modules.checklist.useCooldownsEffectively": "Эффективно используйте Ваши мощные способности",
   "paladin.holy.modules.checklist.useCooldownsEffectively.description": "Ваши сильные способности с большим временем перезарядки вносят серьезный вклад в Вашу суммарную эффективность и сильно влияют на итоговый результат. Старайтесь использовать их больше раз за бой. <0>Подробнее здесь.</0> ",
   "paladin.holy.modules.checklist.usePrimarySpells": "Используйте свои основные лечащие способности как можно чаще",
